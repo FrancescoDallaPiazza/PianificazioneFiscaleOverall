@@ -1,2 +1,8 @@
 dati/
 *.tmp
+
+# Analisi riservate: non pubblicare
+03-quantificazione/Q05-audit-rimborsi-tazio.md
+03-quantificazione/Q04-piano-integrato.md
+99-verifiche/V06-verifica-piano-integrato.md
+03-quantificazione/modello/
