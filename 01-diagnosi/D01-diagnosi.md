@@ -1,14 +1,22 @@
 # D01 — Diagnosi fiscale as-is
 
 **Overall Group S.r.l.** — C.F./P.IVA 04534450236 — REA VR-428451
-**Versione 2** del 9 settembre 2026 — riscritta dopo la verifica indipendente V02, che
-ha chiuso la versione 1 con esito **DA RIVEDERE**.
+**Versione 3** del 25 settembre 2026. La versione 2 del 9 settembre era stata riscritta
+dopo la verifica indipendente V02, che aveva chiuso la versione 1 con esito **DA RIVEDERE**.
 **Base documentale:** visura ordinaria 10/11/2025, atto costitutivo 15/01/2018, bilanci
 2023-2024-2025 con verbali, Executive Summary interno al CdA sul 2025, cedolini
-giugno-agosto 2026, quadri RE e CP 2024 di Dalla Piazza Francesco.
+giugno-agosto 2026, quadri RE e CP 2024 di Dalla Piazza Francesco. **Aggiunti nella
+versione 3:** esito ISA e proposta CPB 2026-2027 della società (14/09/2026) e del socio
+Dalla Piazza (17/09/2026), situazioni contabili provvisorie al 31/08/2026 (società) e
+all'11/09/2026 (socio), archivio fatture FatturaLab 2024-2026 (backup del 3/9/2026).
 
 > **Convenzione di lettura.** **[A] accertato** dai documenti · **[I] inferito**, con il
 > ragionamento indicato · **[V] da verificare** prima di qualunque decisione.
+
+> **Che cosa cambia nella versione 3.** Il § 6 passa da «non si conclude» alla decisione
+> presa dalla proprietà: **la società aderisce al CPB 2026-2027, il socio Dalla Piazza no.**
+> Il § 7 è aggiornato con i documenti ricevuti. Le altre sezioni restano quelle della
+> versione 2.
 
 > **Che cosa è cambiato rispetto alla versione 1.** Due conclusioni sono state
 > **rovesciate** dalla verifica e sono state riscritte: il confronto fra canale fattura e
@@ -158,7 +166,9 @@ risparmio del solo socio Dalla Piazza nel solo 2024 è nell'ordine di **13.000 e
 **[I] Beneficio in capo alla società nel 2025.** Ricostruendo il reddito effettivo
 (≈ 121.400 di imponibile IRES; ≈ 171.200 di valore della produzione netta) e il carico
 ordinario che ne deriverebbe (≈ 35.500-36.100 con IRES 24% e IRAP Veneto **4,08%**),
-contro i 17.190 iscritti, la differenza è di **17.300-18.900 euro**. Il reddito concordato
+contro i 17.190 iscritti, la differenza è di **17.300-18.900 euro**. *(V03: con i dati
+effettivi ora disponibili, 122.940 di reddito e 181.521 di valore della produzione, il
+beneficio 2025 è di circa **19.700 euro**. La conferma del CPB 2024-2025 è nel § 6.1.)* Il reddito concordato
 implicito è nell'ordine di 54.400 e il valore della produzione netta concordato di 101.200.
 
 > **[V] La domanda che apre o chiude tutto il resto, e serve un solo documento.**
@@ -257,7 +267,7 @@ co.co.co., **24% per chi è già iscritto ad altra gestione**.
 | Ordinario, marginale 45% | 2,21 | 1,88 | 2,29 | **dividendo** |
 | Ordinario, oltre il massimale Inarcassa, marginale 45% | 1,89 | 1,88 | 2,29 | parità |
 | Società in CPB, socio ordinario 45% | 2,21 | **1,35** | 2,29 | **dividendo** |
-| **Società e socio entrambi in CPB** | **1,04** | 1,35 | 2,29 | **fattura**, con margine del 30% |
+| **Società e socio entrambi in CPB** | **≈ 1,22** | 1,35 | 2,29 | **fattura**, con margine del 10% circa |
 
 **Le due conclusioni della versione 1 erano sbagliate, ed erano sbagliate in direzioni
 opposte.**
@@ -267,13 +277,12 @@ opposte.**
    **35,3%**, che con la struttura IRPEF 2026 coincide quasi esattamente con i 50.000
    euro di reddito complessivo. Dalla Piazza ne dichiara 131.816: per lui il dividendo
    conviene già oggi in regime ordinario.
-2. **Sotto CPB la fattura non distrugge valore — a condizione che anche il socio sia in
-   concordato.** L'art. 19, c. 1, D.Lgs. 13/2024 dispone che i maggiori redditi effettivi
-   «non rilevano ai fini della determinazione delle imposte sui redditi e dell'IRAP,
-   **nonché dei contributi previdenziali obbligatori**», e che il versamento sull'effettivo
-   è una **facoltà**. Se entrambi sono in concordato, il compenso eccedente non sconta né
-   IRPEF né contributi: costo 1,04 contro 1,35 del dividendo. *(La versione 1 affermava
-   il contrario — che i contributi restassero dovuti sull'effettivo. È falso.)*
+2. **Sotto CPB la fattura non distrugge valore, a condizione che anche il socio sia in
+   concordato.** L'art. 19, c. 1, D.Lgs. 13/2024 esclude i maggiori redditi effettivi dalle
+   imposte sui redditi. Il compenso eccedente non sconta IRPEF, ma **sconta il contributo
+   soggettivo Inarcassa**, dovuto sul reddito effettivo (punto 5). Costo ≈ 1,22 contro 1,35
+   del dividendo. *(Corretto dopo la verifica V03, rilievo R-1: la versione 2 indicava 1,04,
+   escludendo anche i contributi.)*
 
 **Il terzo canale, assente dalla versione 1: il compenso di amministratore.** Costa
 **2,29-2,54 euro per euro netto** ed è il peggiore in ogni scenario, perché è reddito
@@ -299,10 +308,12 @@ opzionali:**
 4. **Sostanza.** Il vantaggio si costruisce solo su prestazioni effettivamente rese e
    documentate. Aumentare il canale fattura senza aumentare la prestazione ricade
    nell'art. 22, c. 1, lett. a) — vedi § 5.5.
-5. **Asimmetria contributi/ISEE.** I contributi seguono il concordato, ma l'art. 35, c. 2,
-   D.Lgs. 13/2024 fa rilevare il reddito **effettivo** per detrazioni, deduzioni, benefici
-   «anche di natura non tributaria» e ai fini **ISEE**. Rinunciare ai contributi aumenta la
-   cassa di oggi e riduce il montante pensionistico. Va spiegato prima, non dopo.
+5. **Contributi e ISEE.** Per i professionisti iscritti a casse private la regola
+   dell'art. 19, c. 1, sui contributi cede al regolamento della cassa. **Inarcassa ha
+   dichiarato (comunicazione del 28/10/2024) che l'adesione al CPB «non produce alcun
+   effetto» sugli obblighi contributivi: il soggettivo si calcola sul reddito effettivo.**
+   L'art. 35, c. 2, D.Lgs. 13/2024 fa inoltre rilevare il reddito **effettivo** per
+   detrazioni, deduzioni, benefici «anche di natura non tributaria» e ai fini **ISEE**.
 
 ---
 
@@ -409,23 +420,32 @@ in ipotesi, dell'art. 67, c. 1, lett. h-*ter*), TUIR. Stessa verifica per i nole
 
 ### 5.5 Il rischio che il concordato **moltiplica** invece di attenuare
 
-È il rilievo più importante fra quelli emersi in verifica.
+*(Riscritto dopo la verifica V03, rilievo G-1.)* L'art. 22 D.Lgs. 13/2024 fa **decadere** il
+concordato in più casi:
 
-**[A]** L'art. 22, c. 1, lett. a), D.Lgs. 13/2024 fa **decadere** il concordato quando, a
-seguito di accertamento, risulta l'esistenza di attività non dichiarate o **l'inesistenza
-o indeducibilità di passività dichiarate** per un importo superiore al **30% dei ricavi
-dichiarati**. Sui ricavi 2025 la soglia è **126.390 euro**.
+- **c. 1, lett. a):** accertamento, nei periodi concordati **o in quello precedente**, di
+  attività non dichiarate o di passività inesistenti o indeducibili oltre il **30% dei ricavi
+  dichiarati**. Sui ricavi 2025 la soglia è 126.390; sui ricavi 2026 proiettati è ≈ 142.000-183.000;
+- **c. 1, lett. c) e c. 2:** violazioni di non lieve entità, **senza soglia**, fra cui i reati
+  del D.Lgs. 74/2000 commessi nei periodi concordati;
+- **c. 1, lett. e):** omesso versamento delle somme dovute entro 60 giorni.
 
-Il perimetro delle fatture dei soci alla società è dello stesso ordine di grandezza. Se
-una verifica ne contestasse l'indeducibilità oltre quella soglia, **non si perde solo la
-deduzione: decade l'intero concordato**, e la decadenza è retroattiva su entrambi gli anni
-del biennio. Va aggiunto che l'imposta si liquida sul **maggiore** fra reddito effettivo e
-concordato: quindi per un anno in cui l'effettivo era inferiore al concordato non c'è alcun
-rimborso.
+**[A] La soglia della lett. a) è lontana.** L'unico socio che fattura alla società è Dalla
+Piazza, per 25.200 euro nel 2025: il 6% dei ricavi, un quinto della soglia.
 
-**Conclusione operativa: il rilievo del § 5.1 e la decisione del § 6 non sono
-indipendenti.** Aderire al concordato *senza* aver prima costruito la documentazione dei
-rapporti soci-società significa aumentare la posta di un rischio che già esiste.
+**Il canale realistico è un altro.** Un verificatore che trova fatture generiche fra un
+socio-amministratore e la sua società non ragiona sull'indeducibilità, ma sull'**inesistenza
+della prestazione**. Questo apre l'art. 2 D.Lgs. 74/2000, che non ha soglia di punibilità, e
+quindi la decadenza del c. 2 **a prescindere dal 30%**. È remoto se la prestazione è reale e
+documentata, ma è l'unico canale per cui 25.000 euro di fatture possono far cadere un
+concordato che vale decine di migliaia di euro l'anno.
+
+**Il 2025 è esposto due volte:** è periodo concordato del 2024-2025 ed è «periodo precedente»
+del 2026-2027. Un rilievo sul 2025 colpirebbe entrambi i concordati. Va aggiunto che anche
+dopo la decadenza restano dovute le imposte sul concordato, se maggiore (c. 3-*bis*).
+
+**Conclusione operativa:** il presidio è la prova dell'effettività delle prestazioni del
+socio (§ 6.4, punto 2), da costruire prima della firma o almeno contestualmente.
 
 ### 5.6 Quello che non è un rischio
 
@@ -444,104 +464,300 @@ rapporti soci-società significa aumentare la posta di un rischio che già esist
 
 ---
 
-## 6. La decisione del 2 novembre 2026 — e perché può essere «no»
+## 6. La decisione del 2 novembre 2026: la società aderisce, il socio Dalla Piazza no
 
-> ⚠️ **Questo paragrafo sostituisce quello della versione 1, che raccomandava di fatto
-> l'adesione sulla base di un argomento sbagliato.**
+> ⚠️ **Versione 3 (25 settembre 2026), corretta dopo la verifica V03.** La versione 2 non
+> concludeva: mancava la proposta elaborata dal software. Ora la proposta c'è, insieme alla
+> situazione contabile al 31/08/2026 e ai dati di fatturazione di FatturaLab. **La proprietà
+> ha deciso: la società aderisce, il socio Dalla Piazza non aderisce come professionista.**
+> Questo paragrafo documenta i numeri su cui la decisione si regge e le condizioni che la
+> accompagnano.
 
-**[A, verificato su fonte normativa]** Il termine di adesione al **concordato preventivo
-biennale 2026-2027** è il **31 ottobre 2026**, per effetto dell'art. 7-*bis* introdotto in
-sede di conversione del D.L. 27 marzo 2026 n. 38 dalla **legge 22 maggio 2026 n. 88**
-(G.U. 22 maggio 2026). Coincide con il termine di presentazione della dichiarazione dei
-redditi 2025. Cadendo di sabato, il termine utile slitta a **lunedì 2 novembre 2026**.
-L'adesione si esercita con il **quadro P del modello Redditi 2026**.
+> **Riquadro di protocollo — adesione della società al CPB 2026-2027**
+> - **Semaforo: VERDE.** È un regime opzionale usato per lo scopo per cui esiste.
+> - **Vincolo:** dal 1/1/2026 al 31/12/2027. Gli effetti premiali durano fino alla scadenza
+>   dei termini di accertamento ridotti.
+> - **Condizioni di mantenimento:**
+>   - nessuna operazione straordinaria (fusione, scissione, conferimento) e nessun aumento
+>     del numero dei soci nel biennio (art. 21). **Ogni leva di holding o di catena
+>     partecipativa che coinvolga la società è rinviata al 2028**;
+>   - nessuna modifica dell'attività verso un ISA diverso;
+>   - versamento delle somme dovute entro 60 giorni dagli avvisi (art. 22, c. 1, lett. e);
+>   - nessuna violazione dell'art. 22, c. 2 (§ 5.5);
+>   - ricavi sotto 7.746.853,50 euro;
+>   - debiti tributari o contributivi definitivi sotto 5.000 euro (art. 10). Rilevante per il
+>     § 6.4, punto 3.
+> - **Responsabile del monitoraggio:** da nominare. Proposta: la commercialista per gli
+>   adempimenti, il Presidente per le operazioni societarie.
+> - **Successione normativa [V]:** gli articoli citati sono quelli vigenti all'adesione. Dal
+>   1/1/2027 entrano in vigore i testi unici (D.Lgs. 117/2026 imposte sui redditi, D.Lgs.
+>   141/2026 adempimenti e accertamento, secondo V02), e per il 2027 vanno riletti lì.
 
-### L'argomento della versione 1 era sbagliato
+**[A, verificato su fonte normativa]** Il termine di adesione è il **31 ottobre 2026**
+(art. 7-*bis* D.L. 27 marzo 2026 n. 38, introdotto dalla **L. 22 maggio 2026 n. 88**). Cade
+di sabato e slitta a **lunedì 2 novembre 2026**. L'adesione si esercita con il **quadro P
+del modello Redditi SC 2026**.
 
-La versione 1 sosteneva che «il concordato fissa l'imponibile su base storica mentre il
-reddito effettivo corre». **È vero per il biennio scaduto. Per il rinnovo è falso**, e la
-decisione riguarda il rinnovo.
+### 6.1 La proposta alla società
 
-Per chi ha già aderito, la proposta 2026-2027 è elaborata sul dato del rigo **P04** del
-modello, che le istruzioni dell'Agenzia definiscono come il reddito determinato secondo le
-**ordinarie regole** del TUIR; e la circolare AdE n. 18/E del 2024, trattando il rinnovo,
-parla di «reddito effettivo d'impresa relativo al periodo d'imposta 2025 (**non quello
-concordato**)». La metodologia è stata approvata con D.M. MEF 11 maggio 2026, con
-rivalutazione sul PIL nominale (+2,7% per il 2026).
+**[A]** Mail della commercialista del 14/09/2026 ed esito ISA (modello EK30U):
 
-**[I] Che cosa significa per Overall Group:**
+| | 2025 effettivo | 2026 proposto | 2027 proposto |
+|---|---:|---:|---:|
+| Reddito d'impresa | 122.940 | **132.572** | **135.234** |
+| Valore della produzione netta IRAP | 181.521 | **192.735** | **197.553** |
+| Punteggio ISA | **10** | | |
+
+- **La domanda della versione 2 è chiusa.** La proposta è costruita sul reddito
+  **effettivo** 2025. Lo prova la proposta stessa: +7,8% sul 2025 nel 2026, +10,0% nel 2027,
+  dentro il tetto del 10% dell'art. 9, c. 3-*bis* per ISA 10.
+- **[A, indiziario forte] È un rinnovo, e si chiude anche la domanda del § 3.** Lo stato
+  patrimoniale al 31/08/2026 porta acconti IRES per 6.090 e IRAP per 2.206,50. Come primi
+  acconti del 50% implicano un'IRES 2025 di circa 12.180, cioè circa 50.750 di reddito
+  tassato, e un'IRAP di circa 4.413, cioè circa 108.000 di valore della produzione. È il
+  profilo di un **concordato 2024-2025** con sostitutiva, non di un reddito tassato di
+  122.940. La conferma formale resta la dichiarazione.
+
+**Costo dell'adesione** (IRES 24%, IRAP Veneto 4,08%, sostitutiva art. 20-*bis* al 10%
+con ISA ≥ 8 sull'incremento rispetto al 2025):
 
 | | 2026 | 2027 |
 |---|---:|---:|
-| Reddito concordato stimato | ≈ 124.700 | ≈ 127.800 |
-| **Imposta annua che la società si impegnerebbe a pagare** | **≈ 36.800** | **≈ 37.700** |
+| IRES ordinaria sulla base 2025 (122.940 × 24%) | 29.506 | 29.506 |
+| Sostitutiva 10% sull'incremento | 963 | 1.229 |
+| IRAP sul valore concordato | 7.864 | 8.060 |
+| **Totale** | **≈ 38.300** | **≈ 38.800** |
 
-Contro **17.190 euro pagati nel 2025**. Aderendo, la società si impegnerebbe a pagare
-**più del doppio**, e a pagarlo anche se il 2026 tornasse ai livelli del 2024 — nel qual
-caso il concordato costerebbe **oltre 22.000 euro l'anno di imposte non dovute**.
+### 6.2 Perché conviene: il 2026 corre al +44%
 
-**Il punto di pareggio è che il 2026 e il 2027 battano il 2025.** E il documento più
-recente agli atti della società dice testualmente il contrario: *«L'incremento dell'utile
-del 240% è straordinario e non si replica per inerzia.»*
+**[A]** La situazione contabile provvisoria al **31/08/2026** chiude con un **utile di
+169.596**, su 364.288 di ricavi netti in otto mesi. Nell'intero 2025 i ricavi erano stati 421.299.
 
-### La domanda da 38.000 euro, che decide tutto
+**[A] La crescita non nasce da fatturazione anticipata.** I dati di FatturaLab (1.867
+fatture emesse 2024-2026, backup del 3/9/2026) danno 362.219 di imponibile netto delle note di
+credito, contro 364.288 in contabilità: lo scarto è dello 0,6%. Non emergono fatture di
+acconto, canoni annuali o anticipi, solo fatturazione mensile ordinaria. I costi passivi non
+crescono: 106.700 contro 109.600 degli stessi mesi del 2025.
 
-**[V] NON VERIFICATO, ed è il punto su cui la raccomandazione si gioca.** L'art. 9,
-c. 3-*bis*, D.Lgs. 13/2024 pone un tetto: la proposta non può eccedere il **reddito
-dichiarato** nel periodo antecedente, maggiorato di una percentuale graduata sull'ISA
-(10% se ISA = 10; 15% se ≥ 9; 25% se ≥ 8; 30% se ≥ 6; 35% sotto 6 — le ultime due
-introdotte dalla L. 88/2026). Per chi era in concordato nel 2025, «reddito dichiarato» può
-significare due cose:
+| Ricavi imponibili (migliaia) | Gen-Ago | Set-Dic | Anno |
+|---|---:|---:|---:|
+| 2024 | 194,5 | 111,2 | 305,7 |
+| 2025 | 252,3 | 171,8 | 424,1 |
+| 2026 | **362,2** (+43,6%) | — | — |
 
-| Se «reddito dichiarato 2025» significa… | Imposta annua concordata | Confronto col 2025 |
-|---|---:|---:|
-| il reddito **effettivo** (≈ 121.400) | **≈ 36.800** | più del doppio |
-| il reddito **concordato** (≈ 54.400) | **≈ 19.700** | in linea |
+**[A] La crescita è concentrata.** Tre clienti assenti nei primi otto mesi del 2025 valgono
+circa 49.400 euro nel 2026 (Velox Servizi 24.213, Velox Hotellerie 17.062, Seasonal Services
+8.136). Sono il 45% dell'incremento, ed è il dato che decide il 2027.
 
-Gli elementi disponibili puntano verso il reddito **effettivo**, ma il D.M. 11 maggio 2026
-usa la formula ambigua «reddito *dichiarato*», e non risulta alcuna circolare o FAQ del
-2026 dedicata al punto.
+**[I] Proiezione del reddito 2026.** Per settembre-dicembre stimo circa 139.000 euro di
+costi: fatture passive allo stesso livello del 2025, personale con i ratei, compenso
+dell'amministratore, ammortamenti. Vanno aggiunte **9.000-10.000 euro di rettifiche sugli
+otto mesi**: il TFR accantonato è 254 contro circa 2.500 maturati, la parcella della
+commercialista è stornata (−2.392, contro 4.600 del 2025), mancano i ratei di ferie e
+mensilità aggiuntive.
 
-**Si chiude in un modo solo: facendo elaborare la proposta dal software dichiarativo e
-leggendo il numero.** Finché quel numero non c'è, questo documento **non conclude né a
-favore né contro l'adesione**.
+| Ricavi set-dic 2026 | Reddito 2026 | Imposte senza CPB | Con CPB | **Risparmio** |
+|---|---:|---:|---:|---:|
+| Livello 2024 (111k), scenario pessimo | ≈ 132.000 | ≈ 39.500 | 38.300 | **≈ 1.200** |
+| Livello 2025 (172k), scenario piatto | ≈ 193.000 | ≈ 56.600 | 38.300 | **≈ 18.300** |
+| Tendenza +44% (248k) | ≈ 269.000 | ≈ 78.000 | 38.300 | **≈ 39.700** |
 
-### Cosa va messo sui due piatti quando il numero ci sarà
+**Il pareggio è un reddito di circa 128.000 euro** (≈ 129.600 nel 2027).
 
-**A favore dell'adesione:**
-- I benefici premiali dell'art. 9-*bis*, c. 11, D.L. 50/2017, che l'art. 19, c. 3, estende
-  a chi aderisce, **compresi quelli ai fini IVA**: esonero dal visto di conformità,
-  rimborsi prioritari, riduzione di un anno dei termini di accertamento.
-- La **preclusione degli accertamenti** dell'art. 34, salvo le cause di decadenza.
-- L'**imposta sostitutiva sull'incremento** dell'art. 20-*bis*: 10% con ISA ≥ 8, ma solo
-  fino a un'eccedenza di **85.000 euro** (c. 1-*bis*), oltre la quale si torna all'IRES
-  ordinaria. Nello scenario "concordato basso" vale circa 1.900 euro l'anno.
-- **[A] Un avvertimento contenuto nella norma stessa:** l'art. 34, c. 2, prevede
-  espressamente che l'Agenzia intensifichi i controlli su chi **non** aderisce. Non
-  aderire non è neutro.
+**Sensibilità:** se nello scenario pessimo i costi di settembre-dicembre superano la stima
+del 10% (+14.000), il 2026 finisce **sotto** il pareggio. Lo scenario pessimo presuppone
+però che il quadrimestre torni ai livelli 2024 (−35% sul 2025) mentre gennaio-agosto corre
+al +43,6%. **La decisione regge**, e va detto che nel caso peggiore il margine è minimo.
 
-**Contro l'adesione:**
-- L'impegno biennale su un reddito costruito sull'anno migliore della storia della società.
-- Il rischio di decadenza del § 5.5, che il concordato **amplifica**.
-- La discrasia IVA del § 5.3, punto 3.
-- L'effetto sul biennio 2028-2029, che partirà da una base più alta.
+**Il rischio vero è il 2027.** Preso da solo, il concordato 2027 conviene se il reddito non
+scende sotto circa 129.600, cioè il 33% sotto la proiezione piatta del 2026. Sul biennio,
+l'eccedenza del 2026 assorbe un 2027 molto peggiore: il pareggio di biennio è intorno a
+**60.000 euro di reddito 2027** nello scenario piatto.
 
-**[A] E va deciso insieme al concordato dei soci.** Lo scenario più favorevole del § 4.3
-(costo 1,04 per euro netto) richiede che **sia la società sia il socio** siano in
-concordato. Sono decisioni separate, con la stessa scadenza, che vanno prese insieme.
+**[A] I contratti Velox e Seasonal non sono pluriennali** (conferma della proprietà,
+25/09/2026). Dopo un avvio da ottobre 2025 il ritmo è di circa 10.000 euro al mese ad agosto
+2026, quindi circa 90.000 euro nel 2026. **[I] Se non si rinnovassero nel 2027**, con un
+margine fra il 60% e il 100% il reddito 2027 scenderebbe a circa 103.000-139.000 euro,
+intorno al pareggio del solo 2027 (129.600). Nel caso peggiore il 2027 costerebbe circa
+7.500 euro più dell'ordinario, **ma il biennio resta conveniente** nello scenario piatto
+(+18.300 nel 2026). Il concordato non si sceglie anno per anno: il conto va fatto sul biennio.
+
+### 6.3 Il socio Dalla Piazza: proposta non accettata
+
+**[A]** Mail della commercialista del 17/09/2026 ed esito ISA (modello DG15U): ISA 10,
+reddito professionale effettivo 2025 **140.890** (compensi 146.126), proposta **151.929**
+per il 2026 e **154.979** per il 2027. All'11/09/2026 i compensi incassati sono 94.508 e
+l'utile è 91.885.
+
+**[I]** Con i 50.000 euro di ulteriore fatturato che il socio prevede per fine anno,
+tutti incassati entro il 31/12 (criterio di cassa), il reddito 2026 arriva a circa
+**140.900**. Il pareggio è **≈ 143.300**, calcolato sulla sola IRPEF con marginale e
+addizionali al 45% circa. **I contributi Inarcassa sono neutri nel confronto**, perché sono
+dovuti sul reddito effettivo sia con sia senza concordato (§ 4.3, punto 5).
+
+**Sui numeri la scelta è indifferente**, nell'ordine di ±1.000-1.500 euro l'anno:
+- **2026:** aderendo il socio avrebbe pagato circa 1.100 euro in più. Bastano però circa
+  2.500 euro di incassi oltre la previsione per rovesciare il conto;
+- **2027:** il pareggio è 144.021. Con un 2027 uguale al 2025 (146.126 di compensi)
+  l'adesione avrebbe fatto risparmiare circa 900 euro.
+
+**La proprietà ha scelto di non aderire.** Il socio era in CPB 2024-2025, quindi sarebbe
+stato un rinnovo, e rinuncia a:
+- la preclusione degli accertamenti dell'art. 39 DPR 600/1973 (art. 34, c. 1);
+- l'anticipazione di **due** anni dei termini di accertamento;
+- l'esonero dal visto fino a 70.000 euro (art. 14, c. 1-*bis*).
+
+In più entra nella platea dei controlli intensificati dell'art. 34, c. 2. **Il presidio che
+sostituisce questi benefici è il dossier documentale del § 6.4, punto 2.** Prima del 2/11 va
+verificato l'importo realmente incassato al 31/10: se supera la previsione, la decisione va
+riconsiderata.
+
+### 6.4 Che cosa cambia la combinazione "società sì, socio no"
+
+**[I] Il canale di estrazione per il 2026-2027 diventa il dividendo** (§ 4.3, riga
+"Società in CPB, socio ordinario"):
+
+| Canale | Costo per euro netto al socio |
+|---|---:|
+| **Dividendo** | **1,35** |
+| Fattura del socio professionista (sotto il massimale Inarcassa) | 2,21 |
+| Compenso amministratore | 2,29 |
+
+Sotto concordato la società non risparmia nulla deducendo un costo, perché l'imponibile è
+fisso. Ogni euro pagato al socio in fattura sconta invece IRPEF marginale e Inarcassa per
+intero. **L'eccedenza di reddito 2026 sul concordato, fra circa 0 e 136.000 euro secondo lo
+scenario, esce nel modo più efficiente come dividendo.**
+
+**[A] I tempi.** L'eccedenza 2026 si distribuisce solo dopo l'approvazione del bilancio 2026,
+quindi nel 2027. Gli acconti sui dividendi (art. 2433-*bis* c.c.) non sono praticabili per
+una S.r.l. senza revisione. **Oggi sono distribuibili i 210.113 euro di riserve**, e la cassa
+c'è: circa 225.600 di liquidità al 31/08/2026.
+
+**Tre avvertenze che non si possono separare da questa conclusione:**
+
+1. **Non è una ragione per ridurre le prestazioni del socio che fattura.** Ridurle per
+   pagare dividendi sposta valore dal socio che lavora ai tre soci che non fatturano,
+   perché i dividendi si dividono al 25%. È una scelta dei soci, non una leva fiscale.
+
+2. **[V] L'effettività delle fatture del socio va provata, ed è il rischio più concreto del
+   fascicolo.** Dalla Piazza emette ogni mese una fattura a importo fisso con un'unica riga:
+   «consulenze eseguite per vs conto nel mese di…». L'importo era 2.000 euro fino a settembre
+   2025 e 2.400 da ottobre 2025. Agli atti non ci sono né contratto né delibera dell'aumento.
+   Cosa contesterebbe un verificatore:
+   - **IVA:** il concordato non la copre. La detrazione a rischio è di 5.544 euro sul 2025 e
+     4.224 sul 2026 ad agosto, più le sanzioni;
+   - **conflitto di interessi** (art. 2475-*ter* c.c.): il contratto fra la società e un suo
+     amministratore va deliberato dal CdA con l'astensione dell'interessato;
+   - **committente principale:** l'ISA del socio lo colloca fra chi lavora prevalentemente
+     per un committente principale. **[A] È Ecodent S.r.l.** (conferma della proprietà,
+     25/09/2026), che però è **anche cliente e fornitore di Overall**:
+     - **cliente:** Overall le ha fatturato 33.506 euro nel 2025 (8% dei ricavi) e 23.035 nel
+       2026 ad agosto. Sono corsi, DVR e pratiche Albo Gestori erogati ai clienti di Ecodent,
+       per esempio «Corsi RENTRI effettuati per vs clienti»;
+     - **fornitore:** Ecodent riaddebita a Overall acqua ed energia elettrica, 3.522 per il
+       2024 e 3.768 per il 2025. **[V]** Va chiarito se Overall occupa locali di Ecodent o
+       condivide le utenze della sede.
+
+     **[A]** Per Ecodent il socio è responsabile tecnico Albo Gestori, consulente ADR e
+     consulente per l'implementazione di una linea di recupero rifiuti, con la propria
+     partita IVA di ingegnere (dichiarazione della proprietà, 25/09/2026).
+
+     **[I] Il rapporto socio-Ecodent non è un rischio per Overall: VERDE.**
+     - È attività professionale personale del socio. RT e consulente ADR sono incarichi che
+       per legge spettano a una persona fisica.
+     - Un'interposizione non ha senso economico. L'aliquota del socio (IRPEF marginale più
+       Inarcassa) è più alta di quella di Overall, che nel 2026-2027 in concordato non tassa
+       l'utile eccedente. Nessuno sposta reddito verso l'aliquota più alta.
+     - L'unico profilo è civilistico e riguarda i soci: l'art. 12.1, lett. e), dello statuto
+       prevede l'esclusione del socio che svolge attività concorrente, e la consulenza sulla
+       linea di recupero è affine al mestiere di Overall. Si attiva solo se lo sollevano gli
+       altri soci.
+     - Buona pratica: tenere per iscritto gli incarichi ricevuti da Ecodent.
+
+     *(Una stesura precedente di questo punto classificava il triangolo come GIALLO per
+     interposizione. È stata corretta per le ragioni sopra.)*
+
+   **Dossier da costruire prima del 2/11/2026, e comunque prima della prossima fattura:**
+   - contratto scritto con data certa (PEC), con oggetto tecnico determinato;
+   - delibera del CdA, con astensione del socio, di approvazione del contratto e dell'aumento
+     di ottobre 2025;
+   - descrizione in fattura delle attività e delle commesse servite;
+   - report mensile delle attività, con i riferimenti alle commesse;
+   - eventuali rimborsi spese a piè di lista, separati dal forfait.
+
+3. **[I] Circa 12.000 euro di rimborsi spese all'amministratore, registrati fra i
+   compensi.** Il conto dei compensi agli amministratori vale 33.686,80 al 31/08/2026. A
+   Pradella vanno 21.695 di compensi, e i contributi INPS registrati (3.471,20) sono
+   esattamente il 16% di questa cifra. Restano 11.992 euro. **[A]** I cedolini di Pradella
+   riportano la voce 0545 «Rimborso a piè di lista», fuori dall'imponibile: 3.062,80 a giugno,
+   zero a luglio, 1.382 ad agosto. Sono circa 1.480 euro al mese, che su otto mesi danno
+   proprio l'ordine dei 12.000. Nel 2025 lo scarto è analogo (47.893 contro circa 32.500).
+   **La spiegazione quasi certa è una classificazione contabile**, non compensi occulti.
+
+   Cosa guarderebbe un verificatore: circa 15.000-18.000 euro l'anno di rimborsi esenti al
+   Presidente.
+   - **Esenzione per Pradella** (art. 51, c. 5, e art. 52 TUIR): vale solo per trasferte
+     **fuori dal comune** della sede di lavoro, documentate con destinazione, data e motivo.
+     Le spese nel comune sono esenti solo se sono di trasporto documentate.
+   - **Rimborsi chilometrici con auto propria:** servono un prospetto per viaggio (data,
+     percorso, km, veicolo) e le tariffe ACI. Senza, il rimborso diventa compenso: la
+     società risponde della ritenuta non operata e dei contributi di gestione separata al 24%.
+   - Sotto CPB la deducibilità in capo alla società non conta; il rischio si sposta sul
+     sostituto d'imposta e sul percipiente.
+
+   **Da fare:** confermare con la commercialista la composizione del conto e, dal bilancio
+   2026, registrare i rimborsi in un conto dedicato. Conservare le note spese con i
+   giustificativi.
+
+### 6.5 Condizioni di esecuzione
+
+- **[V] Acconti.** Il metodo storico resta disponibile, con esclusione della quota
+  sostitutiva. Per il rinnovo senza interruzione non si applica la maggiorazione del primo
+  anno (art. 20, c. 3-*bis*). Va confermato con la commercialista che la continuità
+  2024-2025 → 2026-2027 conti come rinnovo. Nel caso peggiore la maggiorazione vale circa
+  1.300 euro, ed è solo un anticipo di cassa. Il secondo acconto è dovuto al **30/11/2026**.
+- **Decadenza:** vedi il § 5.5. Il canale realistico non è la soglia del 30%, ma una
+  contestazione di **inesistenza delle prestazioni** fatturate dal socio, che non ha soglia.
+  Il presidio è il dossier del § 6.4, punto 2.
+- **Effetto sul biennio 2028-2029.** La proposta successiva partirà dal reddito effettivo
+  2027, e il dividendo non la cambia. L'unica leva che riduce legittimamente il reddito
+  concordato in corso è l'**iperammortamento** (art. 16, lett. b-*ter*, secondo V02). Con la
+  liquidità disponibile è una leva concreta, da valutare nella fase 2.
+- **Benefici del rinnovo** (art. 14, c. 1-*bis*):
+  - anticipazione di **due** anni dei termini di accertamento;
+  - esonero dal visto fino a 100.000 euro per l'IVA e 70.000 per le imposte dirette;
+  - rimborsi IVA senza visto né garanzia fino a 100.000 euro;
+  - preclusione degli accertamenti dell'art. 39 DPR 600/1973 (art. 34, c. 1), salvo le cause
+    di decadenza.
+
+  La preclusione **non copre** l'IVA, gli accessi e le ispezioni, né i controlli 36-*bis* e
+  36-*ter*.
 
 ---
 
 ## 7. Cosa manca per chiudere la diagnosi
 
-In ordine di urgenza. Le prime quattro voci determinano la decisione del 2 novembre.
+In ordine di urgenza. **Versione 3:** le voci 1, 3 e 4 sono state acquisite e sono
+barrate. La voce 7 è chiarita in parte dalla proprietà. Maggia e Dall'Oca non prestano
+attività professionale per la società, ma restano consiglieri. Pradella è amministratore a
+cedolino. Dalla Piazza fattura come ingegnere libero professionista iscritto a Inarcassa.
+
+**Aggiunte della versione 3, prima del 2/11/2026:**
 
 | # | Documento | A cosa serve |
 |---|---|---|
-| 1 | **La proposta CPB 2026-2027 elaborata dal software dichiarativo**, per la società e per ciascun socio | È il numero che chiude la domanda del § 6. Va chiesto **subito**: senza, nessuna raccomandazione è possibile |
+| 14 | **Mastrino dei compensi agli amministratori 2025 e 2026** (conferma che la differenza sono rimborsi a piè di lista) e **note spese di Pradella con i giustificativi**; delibera dei compensi | § 6.4, punto 3 |
+| 15 | **Contratto, delibera del CdA e report delle prestazioni di Dalla Piazza** | § 6.4, punto 2: il presidio contro la decadenza |
+| 16 | ~~Committente principale del socio~~: **Ecodent S.r.l.**, anche cliente e fornitore di Overall. Il socio è RT, consulente ADR e consulente per la linea di recupero, con partita IVA personale: nessun rischio per Overall (VERDE). Resta da chiarire il titolo delle utenze riaddebitate | § 6.4, punto 2 |
+| 17 | ~~Natura dei contratti Velox e Seasonal~~: **non pluriennali** | § 6.2: il 2027 va letto sul biennio |
+| 18 | **Incassi del socio al 31/10/2026** | § 6.3: se superano la previsione, la non adesione va riconsiderata |
+
+| # | Documento | A cosa serve |
+|---|---|---|
+| 1 | ~~Proposta CPB 2026-2027 per la società e per il socio professionista~~ | **Acquisita** (§§ 6.1, 6.3) |
 | 2 | **Redditi SC 2025 e 2026** (quadri P e CP) e **IRAP** | Stabilire se la società è in CPB, per quale biennio, con quali importi |
-| 3 | **Situazione contabile 2026 aggiornata + proiezione a fine anno** | Il punto di pareggio è che il 2026 batta il 2025: serve saperlo prima di firmare |
-| 4 | **Punteggi ISA** degli ultimi tre anni | Determinano il tetto dell'art. 9, c. 3-*bis* (dal 10% al 35%) e l'aliquota sostitutiva dell'art. 20-*bis* (10-15%). Sono il *prezzo* dell'operazione |
+| 3 | ~~Situazione contabile 2026~~ al 31/08 acquisita; **manca la proiezione della proprietà a fine anno e per il 2027** | § 6.2: il 2027 è l'anno a rischio |
+| 4 | ~~Punteggi ISA~~ | **Acquisiti per il 2025: 10** sia per la società sia per il socio |
 | 5 | **Dettaglio del B7 2025 per soggetto**: quanto fattura ciascun socio | Senza, il § 4.3 resta un modello |
 | 6 | **Posizione personale dei quattro soci**: dichiarazioni, cassa previdenziale, aliquota marginale, altri redditi e **altre attività o società** | Il cuneo si calcola per persona; e le altre attività cambiano le aliquote |
 | 7 | **Qualifiche professionali dei quattro soci** | Presupposto del § 5.1 e dell'inquadramento di Pradella |
@@ -562,9 +778,12 @@ In ordine di urgenza. Le prime quattro voci determinano la decisione del 2 novem
 2. **Il tax rate 2025 al 13,9% non è spiegato nemmeno dentro la società.** La spiegazione
    quasi certa è il concordato, e vale 17.300-18.900 euro solo nel 2025. Serve la
    dichiarazione per confermarlo.
-3. **La decisione del 2 novembre può essere "no".** Se la proposta 2026-2027 è ancorata al
-   reddito effettivo 2025, aderire significa impegnarsi a pagare il doppio sull'anno
-   migliore mai avuto. Il numero va chiesto al software questa settimana.
+3. **Decisione del 2 novembre: la società aderisce, il socio Dalla Piazza no.** Il
+   concordato della società costa circa 38.300 euro nel 2026. Il reddito 2026 proiettato
+   va da circa 132.000 a circa 269.000, contro un pareggio di circa 128.000; il risparmio va
+   da circa 1.200 a circa 39.700 euro. Per il socio la scelta è indifferente sui numeri.
+   Per i soci l'eccedenza esce più efficientemente come dividendo, nel 2027.
 4. **Prima ancora, va costruita la documentazione dei rapporti fra soci e società.** Non è
-   un adempimento formale: sopra i 126.390 euro di contestazione fa decadere l'intero
-   concordato, retroattivamente. È il presupposto di ogni altra cosa, non un accessorio.
+   un adempimento formale: una contestazione di inesistenza delle prestazioni fatturate dal
+   socio, a prescindere dall'importo, può far decadere il concordato, retroattivamente. È il
+   presupposto di ogni altra cosa, non un accessorio.
