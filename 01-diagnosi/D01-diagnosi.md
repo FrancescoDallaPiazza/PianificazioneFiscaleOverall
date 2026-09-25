@@ -427,7 +427,10 @@ concordato in più casi:
   attività non dichiarate o di passività inesistenti o indeducibili oltre il **30% dei ricavi
   dichiarati**. Sui ricavi 2025 la soglia è 126.390; sui ricavi 2026 proiettati è ≈ 142.000-183.000;
 - **c. 1, lett. c) e c. 2:** violazioni di non lieve entità, **senza soglia**, fra cui i reati
-  del D.Lgs. 74/2000 commessi nei periodi concordati;
+  del D.Lgs. 74/2000 commessi nei periodi concordati **e nei tre periodi d'imposta precedenti
+  l'adesione** (verifica V06, rilievo E-8, sul testo pubblicato dall'Agenzia delle Entrate). Le
+  violazioni commesse come sostituto d'imposta (ritenute, 770) non figurano fra le cause di
+  decadenza;
 - **c. 1, lett. e):** omesso versamento delle somme dovute entro 60 giorni.
 
 **[A] La soglia della lett. a) è lontana.** L'unico socio che fattura alla società è Dalla
