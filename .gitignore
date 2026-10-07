@@ -11,3 +11,5 @@ dati/
 99-verifiche/V08-verifica-roadmap.md
 99-verifiche/V09-verifica-finale.md
 99-verifiche/V10-verifica-solo-futuro.md
+05-strumenti/*-workspace/
+__pycache__/
