@@ -120,13 +120,15 @@ si estende ai marchi**. L'operazione è quindi rilevante sul piano oggettivo e r
 solo per difetto del **requisito soggettivo**, cioè solo finché il socio non agisce
 nell'esercizio di impresa, arte o professione. Un contratto di licenza pluriennale che genera
 royalties periodiche è esattamente la fattispecie su cui l'ufficio argomenta l'**abitualità** e
-quindi l'obbligo di partita IVA. La risposta a interpello AdE n. 504 del 12 ottobre 2022
-conferma che le royalties da concessione di marchi e brevetti sono prestazioni di servizi
-imponibili in presenza dei requisiti soggettivo e territoriale.
+quindi l'obbligo di partita IVA (art. 5 DPR 633/1972; non esiste prassi specifica sulla
+soglia). La risposta a interpello AdE n. 504 del 12 ottobre 2022 conferma soltanto che le
+royalties da concessione di marchi e brevetti sono prestazioni di servizi imponibili in
+presenza dei requisiti soggettivo e territoriale: non riguarda l'abitualità.
 Se la riqualificazione arriva, il conto non è più solo IRPEF: omessa fatturazione, omessa
-dichiarazione IVA in capo al socio, indetraibilità in capo alla società, sanzioni. E la
-posizione contributiva segue la stessa sorte (la non assoggettabilità alla gestione separata
-regge solo sull'occasionalità).
+dichiarazione IVA in capo al socio, indetraibilità in capo alla società, sanzioni.
+*[Corretto da V11]* L'abitualità è un rischio IVA e non porta di per sé in gestione separata:
+il rischio contributivo è la riqualificazione come compenso dissimulato (art. 50, c. 1,
+lett. c-bis TUIR) se il socio lavora in società.
 *Il documento non può tacere l'IVA: è l'imposta su cui si fanno più verifiche e, in questo
 schema, è quella con l'esposizione più alta.*
 

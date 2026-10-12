@@ -63,14 +63,17 @@ della ritenuta è violazione autonoma del sostituto d'imposta, con riflesso su 7
 di marchio è prestazione di servizi ex **art. 3, c. 2, n. 2), DPR 633/1972**.
 L'esclusione dell'art. 3, c. 4, lett. a) riguarda i soli **diritti d'autore** ceduti da
 autori, eredi o legatari e **non si estende ai marchi**. L'operazione è quindi rilevante
-sul piano oggettivo e resta fuori campo solo per difetto del **requisito soggettivo**,
-cioè solo finché il socio non agisce abitualmente. Un contratto di licenza pluriennale
-che genera royalties periodiche è esattamente la fattispecie su cui l'ufficio argomenta
-l'abitualità e quindi l'obbligo di partita IVA (cfr. risposta AdE n. 504 del 12 ottobre
-2022). Se la riqualificazione arriva, il conto non è più solo IRPEF: omessa
+sul piano oggettivo (cfr. risposta AdE n. 504 del 12 ottobre 2022, che riguarda però la
+rilevanza oggettiva, non l'abitualità) e resta fuori campo solo per difetto del
+**requisito soggettivo**, cioè solo finché il socio non agisce abitualmente (art. 5 DPR
+633/1972). Un contratto di licenza pluriennale che genera royalties periodiche è
+esattamente la fattispecie su cui l'ufficio argomenta l'abitualità e quindi l'obbligo di
+partita IVA. Se la riqualificazione arriva, il conto non è più solo IRPEF: omessa
 fatturazione, omessa dichiarazione IVA in capo al socio, indetraibilità in capo alla
-società, sanzioni — e la posizione contributiva segue la stessa sorte, perché la non
-assoggettabilità alla gestione separata regge solo sull'occasionalità.
+società, sanzioni. L'abitualità è un rischio IVA e non trasforma di per sé il reddito
+della lett. l) in lavoro autonomo: il rischio contributivo vero è la riqualificazione
+della royalty come compenso dissimulato (art. 50, c. 1, lett. c-bis TUIR) quando il socio
+lavora in società (V11 § 3).
 
 *Nota di onestà intellettuale: non esiste una presa di posizione dell'Agenzia sulla
 soglia di abitualità in un contratto di licenza pluriennale. Il punto resta un'area di

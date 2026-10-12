@@ -89,7 +89,7 @@ Vincolo trasversale: CPB 2026-2027 di Overall, niente operazioni straordinarie n
 - **Norme citate:** art. 67 TUIR (plusvalenze e redditi diversi) nel capitolo 3.
 - **Beneficio dichiarato:** spostamento di reddito dalla società operativa al titolare del marchio.
 - **A chi:** in teoria **O** (marchio "Overall") con il titolare F e/o T o una holding. Nel biennio CPB la cessione o il conferimento del marchio sarebbe da valutare con cautela.
-- **DUBBIO:** è lo stesso errore già accertato nell'altro volume. Le royalties percepite da una persona fisica che non ha creato il marchio sono redditi diversi (art. 67, c. 1, lett. h) o di lavoro autonomo, tassati ad aliquota IRPEF piena, non in modo agevolato. Se il marchio è nato in Overall, trasferirlo al socio genera plusvalenza e pone un problema di valore normale e di transfer pricing interno. Rischio abuso se manca una ragione economica. **Rischio ROSSO/ARANCIO.**
+- **DUBBIO:** è lo stesso errore già accertato nell'altro volume. Le royalties percepite da una persona fisica che non ha creato il marchio sono redditi diversi (art. 67, c. 1, lett. h) o di lavoro autonomo, tassati ad aliquota IRPEF piena, non in modo agevolato. Se il marchio è nato in Overall, trasferirlo al socio genera plusvalenza e pone un problema di valore normale e di transfer pricing interno. Rischio abuso se manca una ragione economica. **Rischio ROSSO** (V11).
 
 ### B6. Dividendi non proporzionali alle quote
 - **Pagina/file:** p. 118 (STP) e quiz p. 158 (domanda 3: si può modificare lo statuto "qualora ci siano le maggioranze previste").
